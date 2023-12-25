@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KKZsX5X+RR56R6GYdHN/5HdXyInvEuBjGpNnoy/uEhsbepWC9MxcBvx1dYD2SsyyLSTZM8QUJ7iwriKOtvpeAw==",
+  "dgSpecHash": "m5WOqDigXbuF1plqULRsx+q3X9jzduefIBcre3ToOn4M63XIYtkZVlXKMGWJHVtY/q7FGg2nmj9+SQj6gTgNLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\madan kumar\\skinet\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\madan kumar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\madan kumar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\madan kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5J2hqUzybWE+Wrr0h5BF/WjlaLzPNNBfKys+jxzW9p9LYaA/4EOgLChODlNCAh9g/CrY5j9ZT9m2nLvLsIYEkw==",
+  "dgSpecHash": "vEcOrs6GH9ZDIElVNGnZooCoOtahkob2UDhenHTAik8oYhSQNKnXOuVnkyNzGef2qVomZi4cyG4k43tkyDqUXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\madan kumar\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,10 @@
     "C:\\Users\\madan kumar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\madan kumar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\madan kumar\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\madan kumar\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\madan kumar\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\madan kumar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\madan kumar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\madan kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }
